@@ -26,9 +26,9 @@ Team Members:
 - **Database**: MySQL (via XAMPP)
 - **Libraries**:
   - `pandas`, `numpy`
-  - `sklearn`, `nltk`, `spacy`
-  - `mysql-connector-python` or `SQLAlchemy`
-  - `pdfminer`, `docx`, `pdfplumber`, etc.
+  - `sklearn`, `spacy`
+  - `mysql-connector-python`
+  - `pdfminer`, `docx2txt`, etc.
 
  ## ⚙️ Installation Guide
 
@@ -64,3 +64,11 @@ pip install pandas nltk spacy mysql-connector-python pdfminer.six
 streamlit run app.py
 ```
 
+### If ant Query ? Contact us at:
+
+1. Gaurav Subhash Borse (gauravborseofficial8084@gmail.com)
+2. Tushar Sanjay Chobhe (tusharchobhe615@gmail.com)
+3. Shraddha Sanjiv Patil (shraddhaspatil2003@gmail.com)
+4. Tejas Marotrao Suryawanshi (tejassuryawanshi7249@gmail.com)
+
+# Thank You 🙏

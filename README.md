@@ -6,4 +6,6 @@ Team Members:
 3. Shraddha Sanjiv Patil
 4. Tejas Marotrao Suryawanshi
 
-## Steps for working of modal
+## 🔗 Steps for working of modal
+
+<b>Step 1.<b/>

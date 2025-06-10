@@ -63,6 +63,7 @@ pip install pandas nltk spacy mysql-connector-python pdfminer.six
 ```bash
 streamlit run app.py
 ```
+<hr></hr>
 
 ### If ant Query ? Contact us at:
 

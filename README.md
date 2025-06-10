@@ -22,7 +22,7 @@ Team Members:
 ## 🛠️ Technologies Used
 
 - **Backend**: Python (Flask / FastAPI)
-- **Frontend**: HTML/CSS/Bootstrap
+- **Frontend**: Servelet
 - **Database**: MySQL (via XAMPP)
 - **Libraries**:
   - `pandas`, `numpy`
@@ -44,5 +44,20 @@ Team Members:
 git clone https://github.com/gauravborse2004/Team34_TechSpire.git
 cd Team34_TechSpire
 
-## 🔗 Steps to run the modal
+#install dependencies
+pip install pandas nltk spacy mysql-connector-python pdfminer.six
+```
 
+### 3. Configure MySQL (via XAMPP)
+
+- Open XAMPP Control Panel.
+- Start Apache and MySQL.
+- Go to http://localhost/phpmyadmin.
+- Create a database named: ats_system
+- Import the SQL file SQL.sql.
+
+### 4. Open VS Code and Terminal
+
+- Go to VS Code
+- Open terminal
+- 

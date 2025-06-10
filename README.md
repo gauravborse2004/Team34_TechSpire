@@ -61,6 +61,6 @@ pip install pandas nltk spacy mysql-connector-python pdfminer.six
 - Open terminal
 
 ```bash
-servelet run app.py
+streamlit run app.py
 ```
 

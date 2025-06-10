@@ -56,8 +56,11 @@ pip install pandas nltk spacy mysql-connector-python pdfminer.six
 - Create a database named: ats_system
 - Import the SQL file SQL.sql.
 
-### 4. Open VS Code and Terminal
+### 4. Run the Code
 
-- Go to VS Code
 - Open terminal
-- 
+
+```bash
+servelet run app.py
+```
+
